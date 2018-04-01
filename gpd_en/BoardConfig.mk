@@ -76,6 +76,10 @@ TW_NO_EXFAT := false
 # Screenshots
 TW_INCLUDE_FB2PNG := true
 
+# Flip Screen
+RECOVERY_TOUCHSCREEN_FLIP_Y := true
+RECOVERY_TOUCHSCREEN_FLIP_X := true
+
 # MTP
 # TW_EXCLUDE_MTP := true
 TW_MTP_DEVICE := "/dev/mtp_usb"
